@@ -1,0 +1,9 @@
+@import 'common/fonts/Montserrat/montserrat.css';
+
+body {
+    font-family: 'Montserrat';
+}
+
+body.lockScroll {
+    overflow: hidden;
+}

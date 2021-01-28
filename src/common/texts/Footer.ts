@@ -1,0 +1,18 @@
+export const Footer = {
+    about: 'О нас',
+    help: 'Помощь',
+    comparing: 'Сотрудничество',
+    downloadApp: 'Скачать приложение',
+    findClub: 'Найти клуб',
+    team: 'Команда',
+    job: 'Вакансии',
+    userAgreement: 'Пользовательское соглашение',
+    confidential: 'Политика конфиденциальности',
+    clubsRules: 'Правила посещения клубов',
+    faq: 'FAQ',
+    partners: 'Наши партнеры',
+    joinPartner: 'Стать партнером',
+    callBack: 'Обратная связь',
+    logo: 'THE Z.A.L. from bop.ru',
+    copyright: '©Все права защищены, ' + new Date().getFullYear(),
+};

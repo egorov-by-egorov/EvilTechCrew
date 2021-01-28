@@ -1,0 +1,26 @@
+# Main
+node_modules
+out
+tmp
+local*
+
+# Keep
+!.gitkeep
+
+# Override
+docker-compose.override.yml
+
+# Editor directories and files
+.idea
+.vscode
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+bash.exe.stackdump
+nohup.out
